@@ -5,9 +5,9 @@ I'm an Informatics Engineering student at **Universitas Hasanuddin** with a stro
 ## About Me
 
 - 🎓 S1 Teknik Informatika at Universitas Hasanuddin (2024 – present)
+- 💼 Previously interned as IT Intern at **PT Pelindo Jasa Maritim**, working on Laravel-based backend systems and operational database integration
 - 💻 Building web apps with **JavaScript, TypeScript, React and Next.js**
 - 🌱 Currently deepening my skills in **Next.js, Supabase and backend development** as I grow toward full-stack engineering
-- 🏆 Competing in **ICONFEST 2026** (Software Development, Smart City) with **SemarSight**
 - 📍 Based in Makassar, Indonesia
 
 ## Tech Stack
