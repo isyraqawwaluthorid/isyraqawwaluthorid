@@ -1,4 +1,4 @@
-# Hi, I'm Isyraq 👋
+# Hi, I'm Isyraq Awwal U. 👋
 
 I'm an Informatics Engineering student at **Universitas Hasanuddin** with a strong interest in **full-stack web development**.
 
